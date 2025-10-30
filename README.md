@@ -1,3 +1,3 @@
 **Live Site** 
 
-![My Portfolio](https://jakechalmerswebdeveloper.netlify.app/)
+[text](https://jakechalmerswebdeveloper.netlify.app/)
