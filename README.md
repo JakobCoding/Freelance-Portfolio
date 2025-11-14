@@ -24,6 +24,7 @@ Professional portfolio website showcasing custom web development services for sm
 
 - **Local Cafe Website** - Modern, mobile-friendly site with online menu and contact integration
 - **Photography Portfolio** - Elegant portfolio with smooth animations and gallery showcase
+- **Yoga Studio Website** - Elegant website with smooth animations, fully responsive to mobile and tablet devices.
 
 ## Key Features
 
